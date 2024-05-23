@@ -5,7 +5,7 @@ public class Usuario {
 
         System.out.println(smartTv.ligada);
 
-        //smartTv.ligar();
+        //&smartTv.ligar();
 
         System.out.println(smartTv.ligada);
 
